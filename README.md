@@ -1,6 +1,6 @@
-### Just some studies on how Haskell works :)
+ Just some studies on how Haskell works :)
 
 
-## Material used:
+### Material used:
 
 - http://book.realworldhaskell.org/read/
